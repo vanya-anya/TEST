@@ -6,4 +6,3 @@ else:
  print("im hungry")
 print ("ok")
 print ("+1")
-#chcking
